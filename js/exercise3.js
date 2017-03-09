@@ -1,6 +1,6 @@
 //I will workout if I have enough time and I am not tired, or do not have homework.
 var time = true;
-var tired = false;
-var homework = false;
+var notTired = false;
+var noHomework = false;
 
-console.log(time && (tired || !homework));
+console.log(time && (!notTired || noHomework));
