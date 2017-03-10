@@ -1,7 +1,7 @@
 #Answers
 
 ##1. Select the string expressions from the listed options. a. "Hello World" b. "Your number is " + someNumber c. "Hello" + "World" d. true && false.
-####All of the above.
+####A,B, and C.
 
 ##2. Select all the falsey values from the following options: a. false b. 0 c. "" d. -5 e. null .
 ####A,B,C, and E.
